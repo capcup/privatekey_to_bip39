@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+hex_to_bip39_env/
